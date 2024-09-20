@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 BASE_URL = 'https://66eb03c355ad32cda47b5c6f.mockapi.io/iot/loTCarStatus'
 
-# Leer todos los registros de car
+# Leer todos los registros de carro
 @app.route('/cars', methods=['GET'])
 def get_cars():
     response = requests.get(BASE_URL)
