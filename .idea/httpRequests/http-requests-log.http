@@ -1,0 +1,155 @@
+DELETE http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T104110.200.json
+
+###
+
+PUT http://127.0.0.1:5000/saludo
+Accept: application/json
+Content-Type: application/json
+Content-Length: 24
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "nombre": "Manuel"
+}
+
+<> 2024-09-18T103419.200.json
+
+###
+
+DELETE http://127.0.0.1:5000/saludo
+Accept: application/json
+Content-Type: application/json
+Content-Length: 24
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "nombre": "Manuel"
+}
+
+<> 2024-09-18T103408.200.json
+
+###
+
+POST http://127.0.0.1:5000/saludo
+Accept: application/json
+Content-Type: application/json
+Content-Length: 24
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "nombre": "Manuel"
+}
+
+<> 2024-09-18T103332.200.json
+
+###
+
+POST http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T103044.415.html
+
+###
+
+POST http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T102441.415.html
+
+###
+
+GET http://127.0.0.1:5000/saludo?nombre=Adriel_el_marido_de_beto
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T102437.200.json
+
+###
+
+POST http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T102429.415.html
+
+###
+
+POST http://127.0.0.1:5000/saludo?nombre=Adriel_el_marido_de_beto
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T102359.415.html
+
+###
+
+GET http://127.0.0.1:5000/saludo?nombre=Adriel_el_marido_de_beto
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T102252.200.json
+
+###
+
+GET http://127.0.0.1:5000/saludo?nombre=Adriel_el_marido_de_beto
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T101405.200.json
+
+###
+
+GET http://127.0.0.1:5000
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T101356.404.html
+
+###
+
+GET http://127.0.0.1:5000/saludo?nombre=Adriel_el_marido_de_beto
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T101300.200.json
+
+###
+
+GET http://127.0.0.1:5000/saludo?nombre=Adriel el marido de beto
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T101242.200.json
+
+###
+
