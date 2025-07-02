@@ -15,7 +15,7 @@ This is my first progam using the flask python framework to create an API with t
 ### Prerequisites
 - Git
 - Python 3.x
-- 
+- REST client software
 
 ###  Installation
 
@@ -46,7 +46,7 @@ python api_rest.py
 
 ## Usage
 
-Use the route http://localhost:5000/saludo in your REST client software. Test the different responses by switching the HTTP method between GET, POST, PUT and DELETE. For POST and PUT requests, make sure to include a JSON body with the key "name" to properly test the response.
+Use the route http://localhost:5000/saludo in your REST client. Test the different responses by switching the HTTP method between GET, POST, PUT and DELETE. For POST and PUT requests, make sure to include a JSON body with the key "name" to properly test the response.
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
