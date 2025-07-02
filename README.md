@@ -15,7 +15,7 @@ This is my first progam using the flask python framework to create an API with t
 ### Prerequisites
 - Git
 - Python 3.x
-- REST client software
+- REST client software (Postman, Thunder Client)
 
 ###  Installation
 
